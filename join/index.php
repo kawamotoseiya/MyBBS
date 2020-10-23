@@ -23,7 +23,7 @@ if($_POST['email']==''){
 		  $error['image']='type';
 	  }
   }
-  
+
 
 
   if(empty($error)){
